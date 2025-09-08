@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
 ## Two Pointers
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
