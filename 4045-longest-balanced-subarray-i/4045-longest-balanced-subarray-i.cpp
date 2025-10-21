@@ -6,6 +6,7 @@ public:
     int longestBalanced(vector<int>& nums) {
         int n = nums.size();
         int maxLen = 0;
+        if(nums.size() <= 1) return 0 ; 
 
         // Iterate over all subarrays
         for (int i = 0; i < n; i++) {
