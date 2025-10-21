@@ -4,13 +4,13 @@ public:
         sort(nums.begin() , nums.end()) ; 
 
         int x = k ;
-        for(auto i : nums) {
+        for(int  i : nums) {
             if(i == x ) x = x + k ; 
         }
-
-
 
         return x ;
 
     }
 };
+
+// 2 3 4 6 7 8 10 //  k = 7  
