@@ -1,18 +1,18 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        int count = 0;   // count missing
-        int num = 1;     // current number to check
-        int i = 0;       // pointer in arr
-
+        int missingCount = 0;
+        int current = 1;
+        int i = 0; // pointer in arr
+        
         while (true) {
-            if (i < arr.size() && arr[i] == num) {
-                i++;  // present, move pointer
+            if (i < arr.size() && arr[i] == current) {
+                i++; // number is present
             } else {
-                count++;  // missing number found
-                if (count == k) return num;
+                missingCount++; // number is missing
+                if (missingCount == k) return current;
             }
-            num++;
+            current++;
         }
     }
 };
