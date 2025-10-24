@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1848-sum-of-unique-elements) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
