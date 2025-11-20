@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
