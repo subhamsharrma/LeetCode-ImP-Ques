@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
+| [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
