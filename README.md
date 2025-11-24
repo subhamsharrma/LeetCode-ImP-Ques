@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1848-sum-of-unique-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1392-find-the-difference-of-two-arrays](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0643-maximum-average-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
