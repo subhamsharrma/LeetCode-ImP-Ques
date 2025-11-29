@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
+| [0485-max-consecutive-ones](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
