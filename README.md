@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1848-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
