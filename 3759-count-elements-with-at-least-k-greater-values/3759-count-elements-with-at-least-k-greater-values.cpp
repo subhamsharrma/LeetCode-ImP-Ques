@@ -58,11 +58,8 @@ public:
 
             int elementsAfterIt = n-i-1;
 
-            if(elementsAfterIt >=k) {
-                ans +=count;
-            }else {
-                break;
-            }
+            if (elementsAfterIt >= k ) ans += count  ; 
+            else break ; 
             i++;
 
             //elements after it
