@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
@@ -164,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
