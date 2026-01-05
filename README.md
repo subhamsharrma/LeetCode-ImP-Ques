@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1848-sum-of-unique-elements](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
