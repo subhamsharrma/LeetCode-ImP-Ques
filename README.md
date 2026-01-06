@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
