@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0035-search-insert-position) |
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1646-kth-missing-positive-number) |
