@@ -9,6 +9,7 @@ public:
                 time += min(tickets[i], T);
             else
                 time += min(tickets[i], T - 1);
+                // 
         }
         return time;
     }
