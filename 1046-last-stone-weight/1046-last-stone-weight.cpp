@@ -5,10 +5,10 @@ public:
 
         while (pq.size() > 1) {
             int change = pq.top(); pq.pop();  // heaviest
-            int x = pq.top(); pq.pop();  // second heaviest
+            int e = pq.top(); pq.pop();  // second heaviest
 
-            if (change != x) {
-                pq.push(change - x);
+            if (change != e) {
+                pq.push(change - e);
             }
         }
 
