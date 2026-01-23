@@ -4,11 +4,11 @@ public:
         priority_queue<int> pq(stones.begin(), stones.end());
 
         while (pq.size() > 1) {
-            int change = pq.top(); pq.pop();  // heaviest
+            int as = pq.top(); pq.pop();  // heaviest
             int e = pq.top(); pq.pop();  // second heaviest
 
-            if (change != e) {
-                pq.push(change - e);
+            if (as != e) {
+                pq.push(as - e);
             }
         }
 
