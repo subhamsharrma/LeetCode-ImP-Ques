@@ -5,10 +5,10 @@ public:
 
         while (pq.size() > 1) {
             int as = pq.top(); pq.pop();  // heaviest
-            int sdfd = pq.top(); pq.pop();  // second heaviest
+            int adasdasd = pq.top(); pq.pop();  // second heaviest
 
-            if (as != sdfd) {
-                pq.push(as - sdfd);
+            if (as != adasdasd) {
+                pq.push(as - adasdasd);
             }
         }
 
