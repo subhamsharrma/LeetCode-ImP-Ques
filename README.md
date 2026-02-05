@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
@@ -204,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1354-construct-target-array-with-multiple-sums) |
 <!---LeetCode Topics End-->
