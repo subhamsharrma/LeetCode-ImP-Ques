@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0031-next-permutation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
