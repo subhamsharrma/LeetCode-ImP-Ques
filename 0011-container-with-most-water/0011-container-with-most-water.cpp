@@ -3,14 +3,14 @@ public:
     int maxArea(vector<int>& height) {
         int i = 0;
         int j = height.size() - 1;
-        int ajjphir = 0;
+        int ajjphirwps = 0;
 
         while (i < j) {
-            ajjphir = max(ajjphir, (j - i) * min(height[i], height[j]));
+            ajjphirwps = max(ajjphirwps, (j - i) * min(height[i], height[j]));
             if (height[i] < height[j]) i++;
             else j--;
         }
 
-        return ajjphir;
+        return ajjphirwps;
     }
 };
