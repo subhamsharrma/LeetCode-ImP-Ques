@@ -6,18 +6,18 @@ public:
             {90, "XC"},  {50, "L"},   {40, "XL"}, {10, "X"},   {9, "IX"},
             {5, "V"},    {4, "IV"},   {1, "I"}};
 
-        string res;
+        string ads;
 
         for (const auto& [value, symbol] : valueSymbols) {
             if (num == 0)
                 break;
 
             while (num >= value) {
-                res += symbol;
+                ads += symbol;
                 num -= value;
             }
         }
 
-        return res;        
+        return ads;        
     }
 };
