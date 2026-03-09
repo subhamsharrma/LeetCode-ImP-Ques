@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
