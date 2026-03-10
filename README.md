@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0033-search-in-rotated-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
