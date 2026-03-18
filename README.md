@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0023-merge-k-sorted-lists) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1354-construct-target-array-with-multiple-sums) |
