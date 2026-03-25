@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0643-maximum-average-subarray-i) |
 ## Segment Tree
 |  |
