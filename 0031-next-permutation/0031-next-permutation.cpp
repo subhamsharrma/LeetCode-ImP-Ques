@@ -11,12 +11,12 @@ public:
             return;
         }
         
-        int asd = nums.size() - 1;
-        while (asd >= i && nums[asd] <= nums[i-1]) {
-            asd--;
+        int s = nums.size() - 1;
+        while (s >= i && nums[s] <= nums[i-1]) {
+            s--;
         }
         
-        swap(nums[i-1], nums[asd]);
+        swap(nums[i-1], nums[s]);
         reverse(nums.begin() + i, nums.end());        
     }
 };
