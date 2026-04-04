@@ -3,9 +3,9 @@ public:
     int search(vector<int>& nums, int target) {
         int n = nums.size() ; 
 
-        for (int da = 0; da < n; da++) {
-             if (nums[da] == target)
-                 return da;
+        for (int asdasd  = 0; asdasd  < n; asdasd ++) {
+             if (nums[asdasd ] == target)
+                 return asdasd ;
         }
 
          return -1;
