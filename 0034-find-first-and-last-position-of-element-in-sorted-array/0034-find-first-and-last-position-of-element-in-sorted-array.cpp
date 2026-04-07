@@ -2,24 +2,24 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int st = 0, ed = nums.size() - 1;
-        int buvh = 0;
+        int adsda = 0;
         vector<int> res(2, -1);
 
         // Find first occurrence
         while (st <= ed) {
-            buvh = ed - (ed - st) / 2;
+            adsda = ed - (ed - st) / 2;
 
-            if (nums[buvh] == target) {
-                if (buvh == 0 || nums[buvh - 1] != target) {
-                    res[0] = buvh;
+            if (nums[adsda] == target) {
+                if (adsda == 0 || nums[adsda - 1] != target) {
+                    res[0] = adsda;
                     break;
                 } else {
-                    ed = buvh - 1;
+                    ed = adsda - 1;
                 }
-            } else if (nums[buvh] < target) {
-                st = buvh + 1;
+            } else if (nums[adsda] < target) {
+                st = adsda + 1;
             } else {
-                ed = buvh - 1;
+                ed = adsda - 1;
             }
         }
 
@@ -28,19 +28,19 @@ public:
 
         // Find last occurrence
         while (st <= ed) {
-            buvh = ed - (ed - st) / 2;
+            adsda = ed - (ed - st) / 2;
 
-            if (nums[buvh] == target) {
-                if (buvh == nums.size() - 1 || nums[buvh + 1] != target) {
-                    res[1] = buvh;
+            if (nums[adsda] == target) {
+                if (adsda == nums.size() - 1 || nums[adsda + 1] != target) {
+                    res[1] = adsda;
                     break;
                 } else {
-                    st = buvh + 1;
+                    st = adsda + 1;
                 }
-            } else if (nums[buvh] < target) {
-                st = buvh + 1;
+            } else if (nums[adsda] < target) {
+                st = adsda + 1;
             } else {
-                ed = buvh - 1;
+                ed = adsda - 1;
             }
         }
 
