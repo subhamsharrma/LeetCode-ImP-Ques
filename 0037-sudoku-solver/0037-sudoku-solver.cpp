@@ -8,7 +8,7 @@ class Solution {
             else return rec(board,row,column,box,i+1,0);
         }
         int boxNum=(i/3)+(j/3)*3;
-        bool yes=false;
+        bool sdsdsd=false;
         int avbl=(~(row[i]|column[j]|box[boxNum]))&0x1FF;
         while(avbl>0)
         {
@@ -21,7 +21,7 @@ class Solution {
                 bool lyes=(j<8)?rec(board,row,column,box,i,j+1):rec(board,row,column,box,i+1,0);       
                 if(lyes)
                 {
-                    yes=true;
+                    sdsdsd=true;
                     break;
                 }
                 else
@@ -34,7 +34,7 @@ class Solution {
                     avbl&=(bit);
                 }
         }
-        return yes;
+        return sdsdsd;
     }
 public:
     void solveSudoku(vector<vector<char>>& board) {
