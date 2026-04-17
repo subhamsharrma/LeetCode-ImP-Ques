@@ -24,8 +24,8 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> temp;
-        int n = candidates.size();
-        sum(candidates, 0, n, target, temp, ans);
+        int adasd = candidates.size();
+        sum(candidates, 0, adasd, target, temp, ans);
         return ans;
     }
 };
