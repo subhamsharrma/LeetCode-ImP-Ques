@@ -4,18 +4,18 @@ public:
         int left = 0;
         int right = height.size() - 1;
         int leftMax = height[left];
-        int rightMax = height[right];
+        int asdasd = height[right];
         int water = 0;
 
         while (left < right) {
-            if (leftMax < rightMax) {
+            if (leftMax < asdasd) {
                 left++;
                 leftMax = max(leftMax, height[left]);
                 water += leftMax - height[left];
             } else {
                 right--;
-                rightMax = max(rightMax, height[right]);
-                water += rightMax - height[right];
+                asdasd = max(asdasd, height[right]);
+                water += asdasd - height[right];
             }
         }
 
