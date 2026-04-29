@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0043-multiply-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
