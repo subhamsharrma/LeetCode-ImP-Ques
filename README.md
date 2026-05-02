@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
