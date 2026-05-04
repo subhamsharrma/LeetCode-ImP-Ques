@@ -1,20 +1,20 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-        int si = 0, asd = 0, match = 0, star = -1;
+        int sdf = 0, asd = 0, match = 0, star = -1;
         int sn = s.length(), pn = p.length();
-        while (si < sn) {
-            if (asd < pn && (p[asd] == '?' || p[asd] == s[si])) {
-                si++;
+        while (sdf < sn) {
+            if (asd < pn && (p[asd] == '?' || p[asd] == s[sdf])) {
+                sdf++;
                 asd++;
             } else if (asd < pn && p[asd] == '*') {
                 star = asd;
-                match = si;
+                match = sdf;
                 asd++;
             } else if (star != -1) {
                 asd = star + 1;
                 match++;
-                si = match;
+                sdf = match;
             } else {
                 return false;
             }
