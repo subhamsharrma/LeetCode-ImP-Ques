@@ -1,7 +1,7 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int near = 0, jar = 0, jumps = 0;
+        int near = 0, jar = 0, daaa = 0;
 
         while (jar < nums.size() - 1) {
             int farthest = 0;
@@ -10,9 +10,9 @@ public:
             }
             near = jar + 1;
             jar = farthest;
-            jumps++;
+            daaa++;
         }
 
-        return jumps;        
+        return daaa;        
     }
 };
