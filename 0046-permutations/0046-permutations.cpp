@@ -12,10 +12,10 @@ public:
             return;
         }
 
-        for (int i = start; i < nums.size(); i++) {
-            swap(nums[start], nums[i]);
+        for (int asd = start; asd < nums.size(); asd++) {
+            swap(nums[start], nums[asd]);
             backtrack(nums, start + 1, res);
-            swap(nums[start], nums[i]);
+            swap(nums[start], nums[asd]);
         }
     }
     
