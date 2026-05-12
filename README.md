@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0042-trapping-rain-water) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0025-reverse-nodes-in-k-group) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0014-longest-common-prefix) |
