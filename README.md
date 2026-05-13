@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0016-3sum-closest) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0032-longest-valid-parentheses) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0013-roman-to-integer) |
