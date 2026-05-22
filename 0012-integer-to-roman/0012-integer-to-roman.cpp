@@ -8,12 +8,12 @@ public:
 
         string ads;
 
-        for (const auto& [value, symbol] : valueSymbols) {
+        for (const auto& [value, symbols] : valueSymbols) {
             if (num == 0)
                 break;
 
             while (num >= value) {
-                ads += symbol;
+                ads += symbols;
                 num -= value;
             }
         }
