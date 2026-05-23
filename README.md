@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0054-spiral-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
