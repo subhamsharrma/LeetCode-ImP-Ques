@@ -1,27 +1,27 @@
 class Solution {
 public:
     string removeSubstring(string s, int k) {
-        string ans;
+        string anss;
         for(auto it:s){
-            ans.push_back(it);
-            int size=ans.size();
+            anss.push_back(it);
+            int size=anss.size();
             if(size>=2*k){
                 bool valid=true;
                 for(int i=0;i<k;i++){
-                    if(ans[size-2*k+i]!='('){
+                    if(anss[size-2*k+i]!='('){
                         valid=false;
                         break;
                     }
-                    if(ans[size-k+i]!=')'){
+                    if(anss[size-k+i]!=')'){
                         valid=false;
                         break;
                     }
                 }
                 if(valid){
-                    ans.resize(size-2*k);
+                    anss.resize(size-2*k);
                 }
             }
         }
-        return ans;
+        return anss;
     }
 };
