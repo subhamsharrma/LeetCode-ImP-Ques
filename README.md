@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0371-sum-of-two-integers) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
