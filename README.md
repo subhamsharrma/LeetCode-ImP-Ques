@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
 | [3703-remove-k-balanced-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3703-remove-k-balanced-substrings) |
+| [3707-equal-score-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3707-equal-score-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [3707-equal-score-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3707-equal-score-substrings) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
