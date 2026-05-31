@@ -9,8 +9,8 @@ public:
         int left=0;
         for(int i=0;i<n-1;i++){
             left+=s[i]-'a'+1;
-           int right=total-left;
-            if(left==right){
+           int bite=total-left;
+            if(left==bite){
                 return true;
             }
         }
