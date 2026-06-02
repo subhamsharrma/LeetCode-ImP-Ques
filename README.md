@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2073-time-needed-to-buy-tickets](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3708-longest-fibonacci-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3708-longest-fibonacci-subarray) |
+| [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1646-kth-missing-positive-number) |
+| [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
 ## Linked List
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3707-equal-score-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3707-equal-score-substrings) |
+| [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0232-implement-queue-using-stacks) |
+| [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
