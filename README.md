@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3708-longest-fibonacci-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3708-longest-fibonacci-subarray) |
 | [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
+| [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1646-kth-missing-positive-number) |
 | [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
+| [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 ## Linked List
 |  |
 | ------- |
@@ -328,4 +330,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
+## Union-Find
+|  |
+| ------- |
+| [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
+## Graph Theory
+|  |
+| ------- |
+| [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 <!---LeetCode Topics End-->
