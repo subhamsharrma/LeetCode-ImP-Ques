@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0055-jump-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
