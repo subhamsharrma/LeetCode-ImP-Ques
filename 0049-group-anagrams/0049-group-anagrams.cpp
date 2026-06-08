@@ -3,10 +3,10 @@ public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         unordered_map<string, vector<string>> ans;
 
-        for (string& s : strs) {
-            string key = s;
+        for (string& sesr : strs) {
+            string key = sesr;
             sort(key.begin(), key.end());
-            ans[key].push_back(s);
+            ans[key].push_back(sesr);
         }
 
         vector<vector<string>> result;
