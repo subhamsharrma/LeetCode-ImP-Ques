@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
