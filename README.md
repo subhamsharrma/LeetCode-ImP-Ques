@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
