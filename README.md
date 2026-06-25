@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
