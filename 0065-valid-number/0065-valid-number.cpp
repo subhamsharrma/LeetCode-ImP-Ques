@@ -2,16 +2,16 @@ class Solution {
 public:
     bool isNumber(string s) {
         int n = s.size();
-        int countE = 0;   // count of 'e' or 'E'
+        int countEb = 0;   // count of 'e' or 'E'
         int countD = 0;   // count of '.'
         int countN = 0;   // count of digits before exponent
         int countAE = 0;  // count of digits after exponent
 
         for (int i = 0; i < n; i++) {
             if (s[i] == '.') countD++;
-            if (s[i] == 'e' || s[i] == 'E') countE++;
+            if (s[i] == 'e' || s[i] == 'E') countEb++;
             if (isdigit(s[i])) {
-                if (countE) countAE++;
+                if (countEb) countAE++;
                 else countN++;
             }
             // sign validation
@@ -21,10 +21,10 @@ public:
             else if (isalpha(s[i]) && (s[i] != 'e' && s[i] != 'E')) 
                 return false;
             // multiple '.' or 'e'
-            else if (countD > 1 || countE > 1) 
+            else if (countD > 1 || countEb > 1) 
                 return false;
             // '.' cannot appear after 'e'
-            else if (s[i] == '.' && countE) 
+            else if (s[i] == '.' && countEb) 
                 return false;
             // 'e'/'E' cannot be at beginning or end
             else if ((i == 0 || i == n - 1) && (s[i] == 'e' || s[i] == 'E')) 
@@ -37,7 +37,7 @@ public:
                 return false;
         }
         // validate digit presence
-        if ((countE && !countAE) || !countN) return false;
+        if ((countEb && !countAE) || !countN) return false;
         return true;
     }
 };
