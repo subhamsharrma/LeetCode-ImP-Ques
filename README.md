@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
