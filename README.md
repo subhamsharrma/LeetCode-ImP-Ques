@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
 ## Sliding Window
