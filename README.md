@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0068-text-justification) |
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
