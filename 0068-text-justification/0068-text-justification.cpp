@@ -7,11 +7,11 @@ public:
 
         while (i < n) {
             int j = i;
-            int lineLength = 0, totalChars = 0;
+            int lineLengthh = 0, totalChars = 0;
 
             // Count how many words fit in the current line
-            while (j < n && lineLength + words[j].length() + (j - i) <= maxWidth) {
-                lineLength += words[j].length(); // total characters from words
+            while (j < n && lineLengthh + words[j].length() + (j - i) <= maxWidth) {
+                lineLengthh += words[j].length(); // total characters from words
                 totalChars += words[j].length();
                 j++;
             }
