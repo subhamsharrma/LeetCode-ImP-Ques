@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1056-capacity-to-ship-packages-within-d-days) |
