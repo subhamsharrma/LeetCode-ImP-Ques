@@ -3,18 +3,18 @@ public:
     string simplifyPath(string path) {
         vector<string> components;
         stringstream ss(path);
-        string comp;
-        while (getline(ss, comp, '/')) {
-            if (comp == "" || comp == ".") {
+        string compo;
+        while (getline(ss, compo, '/')) {
+            if (compo == "" || compo == ".") {
                 continue;
             }
 
-            if (comp == "..") {
+            if (compo == "..") {
                 if (!st.empty()) {
                     st.pop_back();
                 }
             } else {
-                st.push_back(comp);
+                st.push_back(compo);
             }
         }
 
