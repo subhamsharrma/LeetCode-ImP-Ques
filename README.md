@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0072-edit-distance) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
