@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int minDistance(string word1, string word2) {
-        int n = word1.size();
+    int minDistance(string wordone, string word2) {
+        int n = wordone.size();
         int m = word2.size();
 
         vector<vector<int>> dp(n + 1, vector<int>(m + 1));
@@ -14,7 +14,7 @@ public:
 
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++) {
-                if (word1[i - 1] == word2[j - 1]) {
+                if (wordone[i - 1] == word2[j - 1]) {
                     dp[i][j] = dp[i - 1][j - 1];
                 } else {
                     dp[i][j] = 1 + min({dp[i][j - 1], dp[i - 1][j], dp[i - 1][j - 1]});
