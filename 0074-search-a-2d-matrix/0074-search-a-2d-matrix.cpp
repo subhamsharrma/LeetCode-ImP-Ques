@@ -1,6 +1,6 @@
 class Solution {
 public:
-int BinarySearch(vector<int>& nums, int target){
+int ss(vector<int>& nums, int target){
     int start=0,end=nums.size()-1;
     int mid;
     while(start<=end){
@@ -23,7 +23,7 @@ int BinarySearch(vector<int>& nums, int target){
         if(matrix[mid][0]==target || matrix[mid][matrix[0].size()-1]==target){
             return true;
         }else if(matrix[mid][0]<target && matrix[mid][matrix[0].size()-1]>target){
-            a= BinarySearch(matrix[mid],target);
+            a= ss(matrix[mid],target);
             break;
         }else if(matrix[mid][0]>target){
             end=mid-1;
