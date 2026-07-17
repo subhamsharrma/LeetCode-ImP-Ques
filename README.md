@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
