@@ -12,9 +12,9 @@ class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
         ListNode* slist = new ListNode(0, nullptr);
-        ListNode* blist = new ListNode(0, nullptr);
+        ListNode* list3 = new ListNode(0, nullptr);
         ListNode* small = slist;
-        ListNode* big = blist;
+        ListNode* big = list3;
 
         while (head != nullptr) {
             if (head->val < x) {
@@ -27,12 +27,12 @@ public:
             head = head->next;
         }
 
-        small->next = blist->next;
+        small->next = list3->next;
         big->next = nullptr;
 
         ListNode* result = slist->next;
         delete slist;
-        delete blist;
+        delete list3;
         return result;        
     }
 };
