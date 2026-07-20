@@ -7,10 +7,10 @@ public:
     bool isScramble(string s1, string s2) {
         //base cases
         
-        int n = s1.size();
+        int MEN = s1.size();
         
         //if both string are not equal in size
-        if(s2.size()!=n)
+        if(s2.size()!=MEN)
             return false;
         
         //if both string are equal
@@ -24,7 +24,7 @@ public:
         //2.  string are not equal
         //so size is equal (where size==1) and they are not equal then obviously false
         //example 'a' and 'b' size is equal ,string are not equal
-        if(n==1)
+        if(MEN==1)
             return false;
         
         string key = s1+" "+s2;
@@ -36,7 +36,7 @@ public:
         //for every iteration it can two condition 
         //1.we should proceed without swapping
         //2.we should swap before looking next
-        for(int i=1;i<n;i++)
+        for(int i=1;i<MEN;i++)
         {
 
             //ex of without swap: gr|eat and rg|eat
@@ -61,12 +61,12 @@ public:
 			//here we compare "gr" with "at" and "eat" with "rge"
             bool withswap = (
                 //left part of first and right part of second 
-                isScramble(s1.substr(0,i),s2.substr(n-i)) 
+                isScramble(s1.substr(0,i),s2.substr(MEN-i)) 
                 
                 &&
                 
                 //right part of first and left part of second
-                isScramble(s1.substr(i),s2.substr(0,n-i)) 
+                isScramble(s1.substr(i),s2.substr(0,MEN-i)) 
                 );
             
             
