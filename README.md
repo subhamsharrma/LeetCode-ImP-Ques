@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
