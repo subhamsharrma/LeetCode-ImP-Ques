@@ -10,15 +10,15 @@ public:
         const long long MIN_INT = INT_MIN;
         
         int i = 0;
-        int n = s.length();
+        int bn = s.length();
         
         // Step 1: Skip leading whitespace
-        while (i < n && s[i] == ' ') {
+        while (i < bn && s[i] == ' ') {
             i++;
         }
         
         // Check if we've reached the end
-        if (i == n) {
+        if (i == bn) {
             return 0;
         }
         
@@ -33,7 +33,7 @@ public:
         
         // Step 3: Read digits and convert
         long long res = 0;
-        while (i < n && isdigit(s[i])) {
+        while (i < bn && isdigit(s[i])) {
             int digit = s[i] - '0';
             res = res * 10 + digit;
             
