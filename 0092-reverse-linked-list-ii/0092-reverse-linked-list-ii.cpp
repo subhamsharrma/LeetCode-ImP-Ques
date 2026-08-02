@@ -10,13 +10,13 @@
  */
 class Solution {
 public:
-    ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if (!head || left == right) {
-            return head;
+    ListNode* reverseBetween(ListNode* mad, int left, int right) {
+        if (!mad || left == right) {
+            return mad;
         }
 
         ListNode* dummy = new ListNode(0);
-        dummy->next = head;
+        dummy->next = mad;
         ListNode* prev = dummy;
 
         for (int i = 0; i < left - 1; i++) {
