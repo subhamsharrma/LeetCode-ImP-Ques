@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
+| [2129-capitalize-the-title](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2129-capitalize-the-title) |
 | [3703-remove-k-balanced-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3703-remove-k-balanced-substrings) |
 | [3707-equal-score-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3707-equal-score-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
