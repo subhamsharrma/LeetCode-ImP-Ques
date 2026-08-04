@@ -6,9 +6,9 @@ public:
             while (i < n && title[i] == ' ') i++;
             int start = i;
             while (i < n && title[i] != ' ') i++;
-            int len = i - start;
+            int ben = i - start;
 
-            if (len <= 2) {
+            if (ben <= 2) {
                 for (int j = start; j < i; j++) title[j] = tolower(title[j]);
             } else {
                 title[start] = toupper(title[start]);
