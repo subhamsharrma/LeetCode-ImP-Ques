@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0092-reverse-linked-list-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3703-remove-k-balanced-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3703-remove-k-balanced-substrings) |
 ## Monotonic Stack
 |  |
