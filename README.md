@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2132-stamping-the-grid](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2132-stamping-the-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3708-longest-fibonacci-subarray](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3708-longest-fibonacci-subarray) |
 | [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0085-maximal-rectangle) |
+| [2132-stamping-the-grid](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2132-stamping-the-grid) |
 ## Math
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2132-stamping-the-grid](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2132-stamping-the-grid) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [2132-stamping-the-grid](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2132-stamping-the-grid) |
 | [3707-equal-score-substrings](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3707-equal-score-substrings) |
 | [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
