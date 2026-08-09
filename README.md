@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0088-merge-sorted-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0085-maximal-rectangle) |
 | [2132-stamping-the-grid](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2132-stamping-the-grid) |
 ## Math
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0090-subsets-ii) |
 ## String Matching
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
 | [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 ## Breadth-First Search
 |  |
