@@ -1,13 +1,13 @@
 class Solution {
 public:
     bool check(string s){
-        int n=s.size();
+        int sdl=s.size();
         //if the size of string is 1 that is always possible so return true
-        if(n==1){
+        if(sdl==1){
             return true;
         }
         //if we have length >3 or string starts with 0 return false
-        if(n>3||s[0]=='0'){
+        if(sdl>3||s[0]=='0'){
             return false;
         }
         //we are converting string to integer to check if it is less than equalto 255
@@ -19,12 +19,12 @@ public:
         return true;
     }
     vector<string> restoreIpAddresses(string s) {
-        int n=s.size();
+        int sdl=s.size();
         //we will store our ans in ans vector of strings
         vector<string>ans;
         //the max length of the ip address could be 12 as 255.255.255.255 so 
         //all the string s with size greater than 12 can have ans
-        if(n>12){
+        if(sdl>12){
             return ans;
         }
         //now we have our string of length 12 or less than 12 so now 
@@ -35,7 +35,7 @@ public:
             for(int j=1;j<=3;j++){//for the length between first and second '.'
                 for(int k=1;k<=3;k++){//for the length between second and third '.'
                     //checking condition if the last segment is of length 3 or less
-                    if(i+j+k<n&&i+j+k+3>=n){
+                    if(i+j+k<sdl&&i+j+k+3>=sdl){
                         //dividing the s int substrings 
                         string a=s.substr(0,i);
                         string b=s.substr(i,j);
