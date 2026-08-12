@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0636-exclusive-time-of-functions) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 ## Breadth-First Search
 |  |
@@ -449,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
