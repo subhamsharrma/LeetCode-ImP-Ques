@@ -16,16 +16,16 @@ public:
             return vector<TreeNode*>();
         }
         
-        unordered_map<string, vector<TreeNode*>> memo;
+        unordered_map<string, vector<TreeNode*>> ert;
 
-        return generateTreesHelper(1, n, memo);        
+        return generateTreesHelper(1, n, ert);        
     }
 
 private:
-    vector<TreeNode*> generateTreesHelper(int start, int end, unordered_map<string, vector<TreeNode*>>& memo) {
+    vector<TreeNode*> generateTreesHelper(int start, int end, unordered_map<string, vector<TreeNode*>>& ert) {
         string key = to_string(start) + "-" + to_string(end);
-        if (memo.find(key) != memo.end()) {
-            return memo[key];
+        if (ert.find(key) != ert.end()) {
+            return ert[key];
         }
         
         vector<TreeNode*> trees;
@@ -35,8 +35,8 @@ private:
         }
         
         for (int rootVal = start; rootVal <= end; rootVal++) {
-            vector<TreeNode*> leftTrees = generateTreesHelper(start, rootVal - 1, memo);
-            vector<TreeNode*> rightTrees = generateTreesHelper(rootVal + 1, end, memo);
+            vector<TreeNode*> leftTrees = generateTreesHelper(start, rootVal - 1, ert);
+            vector<TreeNode*> rightTrees = generateTreesHelper(rootVal + 1, end, ert);
             
             for (TreeNode* leftTree : leftTrees) {
                 for (TreeNode* rightTree : rightTrees) {
@@ -48,7 +48,7 @@ private:
             }
         }
         
-        memo[key] = trees;
+        ert[key] = trees;
         return trees;
     }    
 };
