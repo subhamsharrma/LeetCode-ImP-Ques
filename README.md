@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0099-recover-binary-search-tree) |
 | [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 ## Breadth-First Search
 |  |
@@ -458,13 +459,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
