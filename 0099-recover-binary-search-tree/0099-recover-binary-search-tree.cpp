@@ -11,11 +11,11 @@
  */
 class Solution {
 public:
-	TreeNode* firstMistake, *secondMistake, *pre;
+	TreeNode* lastmistake, *secondMistake, *pre;
 	void recoverTree(TreeNode* root) {
 		pre = new TreeNode(INT_MIN);
 		inorder(root);
-		swap(firstMistake->val, secondMistake->val);
+		swap(lastmistake->val, secondMistake->val);
 	}
 
 	void inorder(TreeNode* root) {
@@ -24,9 +24,9 @@ public:
 
 		inorder(root->left);
 
-		if(firstMistake == nullptr && root->val < pre->val)
-			firstMistake = pre;
-		if(firstMistake != nullptr && root->val < pre->val)
+		if(lastmistake == nullptr && root->val < pre->val)
+			lastmistake = pre;
+		if(lastmistake != nullptr && root->val < pre->val)
 			secondMistake = root;
 		pre = root;
 
