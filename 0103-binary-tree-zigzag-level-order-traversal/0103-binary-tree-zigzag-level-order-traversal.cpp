@@ -13,29 +13,29 @@ class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         if(root == nullptr) return {};
-        // we have altenate squence left->right, right-> left at alternate levels
+        // we have altenate squence left->right, right-> left at alternate ssasw
         // starting from level 0 (l -> r), the level 1 (r -> l) and so on 
-        // if you notice all even levels sequence are left -> right
-        // and right -> left for all the odd levels
+        // if you notice all even ssasw sequence are left -> right
+        // and right -> left for all the odd ssasw
         // keep in mind that the sequence is not an node discovery concern
         // its an output concern so we can reverse that before pushing if the level is odd or even accordingly
         vector<vector<int>>ans;
-        queue<TreeNode*>levels;
-        levels.push(root);
+        queue<TreeNode*>ssasw;
+        ssasw.push(root);
         int levelCnt = 0;
-        // until all the levels are processed completely
-        while(!levels.empty()){
-            int levelSize = levels.size();
+        // until all the ssasw are processed completely
+        while(!ssasw.empty()){
+            int levelSize = ssasw.size();
             vector<int>currLevel;
             // process the current level completely
             for(int i = 0 ; i < levelSize ; i++){
-                TreeNode* curr = levels.front();
+                TreeNode* curr = ssasw.front();
                 currLevel.push_back(curr->val);
-                levels.pop();
+                ssasw.pop();
 
                 // discover the childrens of the processed node
-                if(curr->left) levels.push(curr->left);
-                if(curr->right) levels.push(curr->right);
+                if(curr->left) ssasw.push(curr->left);
+                if(curr->right) ssasw.push(curr->right);
             }
             if(levelCnt % 2 == 1 ) {
                 reverse(currLevel.begin(),currLevel.end());
