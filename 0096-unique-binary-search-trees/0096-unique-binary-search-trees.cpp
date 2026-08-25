@@ -4,11 +4,11 @@ public:
         vector<int> uniqTree(n + 1, 1);
 
         for (int nodes = 2; nodes <= n; nodes++) {
-            int total = 0;
+            int final = 0;
             for (int root = 1; root <= nodes; root++) {
-                total += uniqTree[root - 1] * uniqTree[nodes - root];
+                final += uniqTree[root - 1] * uniqTree[nodes - root];
             }
-            uniqTree[nodes] = total;
+            uniqTree[nodes] = final;
         }
 
         return uniqTree[n];        
