@@ -11,11 +11,11 @@ private:
             int val = preorder.front();
             preorder.pop_front();
             auto it = find(inorder.begin(), inorder.end(), val);
-            int idx = it - inorder.begin();
+            int idxs = it - inorder.begin();
 
             TreeNode* root = new TreeNode(val);
-            vector<int> leftInorder(inorder.begin(), inorder.begin() + idx);
-            vector<int> rightInorder(inorder.begin() + idx + 1, inorder.end());
+            vector<int> leftInorder(inorder.begin(), inorder.begin() + idxs);
+            vector<int> rightInorder(inorder.begin() + idxs + 1, inorder.end());
 
             root->left = build(preorder, leftInorder);
             root->right = build(preorder, rightInorder);
