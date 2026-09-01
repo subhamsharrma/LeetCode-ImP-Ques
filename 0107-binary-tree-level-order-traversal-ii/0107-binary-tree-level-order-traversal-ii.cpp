@@ -22,32 +22,32 @@ public:
         vector<vector<int>> ans;
 
         // Queue is used for BFS (level-order traversal).
-        queue<TreeNode*> q;
-        q.push(root);
+        queue<TreeNode*> goal;
+        goal.push(root);
 
-        while(!q.empty()){
+        while(!goal.empty()){
 
             // Number of nodes in the current level.
-            int n = q.size();
+            int n = goal.size();
 
             vector<int> temp;
 
             // Process all nodes of the current level.
             for(int i = 0; i < n; i++){
 
-                TreeNode* help = q.front();
-                q.pop();
+                TreeNode* help = goal.front();
+                goal.pop();
 
                 // Store current node's value.
                 temp.push_back(help->val);
 
                 // Add children for the next level.
                 if(help->left){
-                    q.push(help->left);
+                    goal.push(help->left);
                 }
 
                 if(help->right){
-                    q.push(help->right);
+                    goal.push(help->right);
                 }
             }
 
