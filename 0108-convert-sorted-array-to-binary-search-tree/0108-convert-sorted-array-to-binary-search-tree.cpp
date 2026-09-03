@@ -12,11 +12,11 @@ private:
         
         int mid = left + (right - left) / 2;
         
-        TreeNode* node = new TreeNode(nums[mid]);
+        TreeNode* nodey = new TreeNode(nums[mid]);
         
-        node->left = convert(nums, left, mid - 1);
-        node->right = convert(nums, mid + 1, right);
+        nodey->left = convert(nums, left, mid - 1);
+        nodey->right = convert(nums, mid + 1, right);
         
-        return node;
+        return nodey;
     }    
 };
