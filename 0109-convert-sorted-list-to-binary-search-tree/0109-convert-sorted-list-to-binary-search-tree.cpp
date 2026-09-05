@@ -4,13 +4,13 @@ public:
         if (head == nullptr) return nullptr;
         if (head->next == nullptr) return new TreeNode(head->val);
         
-        ListNode* slow = head, *fast = head, *slow_prev = nullptr;
+        ListNode* slow = head, *cast = head, *slow_prev = nullptr;
         
         // Find the middle element (slow pointer)
-        while (fast != nullptr && fast->next != nullptr) {
+        while (cast != nullptr && cast->next != nullptr) {
             slow_prev = slow;
             slow = slow->next;
-            fast = fast->next->next;
+            cast = cast->next->next;
         }
         
         // Create root node from the middle element
