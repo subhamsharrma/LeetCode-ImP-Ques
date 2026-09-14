@@ -3,10 +3,10 @@ class Solution {
 
 public:
     void flatten(TreeNode* root) {
-        helper(root);
+        helperr(root);
     }
 
-    void helper(TreeNode* root) {
+    void helperr(TreeNode* root) {
         if (root == nullptr)
             return;
 
@@ -20,7 +20,7 @@ public:
         root->left = nullptr;
         temp = root;
 
-        helper(left);
-        helper(right);
+        helperr(left);
+        helperr(right);
     }
 };
