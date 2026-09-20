@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0119-pascals-triangle-ii) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
