@@ -1,15 +1,15 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int profit = 0;
+        int profits = 0;
 
-        // Capture every increasing segment as profit.
+        // Capture every increasing segment as profits.
         for (int i = 1; i < static_cast<int>(prices.size()); ++i) {
             if (prices[i] > prices[i - 1]) {
-                profit += prices[i] - prices[i - 1];
+                profits += prices[i] - prices[i - 1];
             }
         }
 
-        return profit;
+        return profits;
     }
 };
