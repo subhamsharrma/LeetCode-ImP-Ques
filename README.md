@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 ## Breadth-First Search
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -564,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0099-recover-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
