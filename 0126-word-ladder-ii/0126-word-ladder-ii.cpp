@@ -50,7 +50,7 @@ void shortestPaths(vector<vector<int>> &Paths, vector<int> &path, vector<int> pa
 vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
     // start and end are indices of beginWord and endWord
     int n=wordList.size(),start=-1,end=-1;
-    vector<vector<string>> ANS;
+    vector<vector<string>> gft;
     for(int i=0;i<n;i++){
         if(wordList[i]==beginWord)
             start=i;
@@ -60,7 +60,7 @@ vector<vector<string>> findLadders(string beginWord, string endWord, vector<stri
     
     // if endWord doesn't exist, return empty list
     if(end==-1)
-        return ANS;
+        return gft;
     
     // if beginWord doesn't exist, add it in start of WordList
     if(start==-1){
@@ -94,8 +94,8 @@ vector<vector<string>> findLadders(string beginWord, string endWord, vector<stri
             now.push_back(wordList[u[i]]);
         reverse(now.begin(),now.end());
         now.push_back(wordList[end]);
-        ANS.push_back(now);
+        gft.push_back(now);
     }
-    return ANS;
+    return gft;
 }
 }; 
