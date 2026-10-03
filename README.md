@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
 | [2129-capitalize-the-title](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2129-capitalize-the-title) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0127-word-ladder) |
 | [3710-maximum-partition-factor](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3710-maximum-partition-factor) |
 ## Union-Find
 |  |
@@ -580,4 +583,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
