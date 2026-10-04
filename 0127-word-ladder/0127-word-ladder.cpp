@@ -6,7 +6,7 @@ public:
 
         unordered_set<string> beginSet{beginWord};
         unordered_set<string> endSet{endWord};
-        unordered_set<string> visited;
+        unordered_set<string> isvisited;
         int steps = 1;
 
         while (!beginSet.empty() && !endSet.empty()) {
@@ -25,8 +25,8 @@ public:
 
                         if (endSet.count(current)) return steps + 1;
 
-                        if (wordSet.count(current) && !visited.count(current)) {
-                            visited.insert(current);
+                        if (wordSet.count(current) && !isvisited.count(current)) {
+                            isvisited.insert(current);
                             nextSet.insert(current);
                         }
                     }
