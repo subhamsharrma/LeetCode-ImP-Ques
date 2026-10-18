@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0371-sum-of-two-integers) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
 | [2129-capitalize-the-title](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2129-capitalize-the-title) |
