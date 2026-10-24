@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1848-sum-of-unique-elements) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -622,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
