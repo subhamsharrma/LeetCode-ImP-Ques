@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0371-sum-of-two-integers) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
