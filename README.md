@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0739-daily-temperatures) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0232-implement-queue-using-stacks) |
 | [3709-design-exam-scores-tracker](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3709-design-exam-scores-tracker) |
 ## Heap (Priority Queue)
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0099-recover-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0173-binary-search-tree-iterator) |
 ## DP on Trees
 |  |
 | ------- |
@@ -634,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
