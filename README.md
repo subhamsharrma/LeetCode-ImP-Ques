@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0334-increasing-triplet-subsequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0174-dungeon-game) |
 | [2132-stamping-the-grid](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2132-stamping-the-grid) |
 ## Math
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0131-palindrome-partitioning) |
+| [0174-dungeon-game](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0174-dungeon-game) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
