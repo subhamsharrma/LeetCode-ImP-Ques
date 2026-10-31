@@ -646,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
