@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0454-4sum-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/1904-second-largest-digit-in-a-string) |
 | [2129-capitalize-the-title](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/2129-capitalize-the-title) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
 | [0371-sum-of-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
 ## Sliding Window
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0643-maximum-average-subarray-i) |
 ## Segment Tree
 |  |
@@ -663,4 +667,20 @@ A collection of LeetCode questions to ace the coding interview!
 | [0183-customers-who-never-order](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
