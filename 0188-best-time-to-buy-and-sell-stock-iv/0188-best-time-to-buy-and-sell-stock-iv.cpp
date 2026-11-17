@@ -16,25 +16,25 @@ public:
         vector<int> profits;
         stack<pair<int, int>> vps;
         int v = 0;
-        int p = -1;
+        int pr = -1;
         
         const int n = prices.size();
         for (;;) {
-            for (v = p + 1; (v + 1) < n && prices[v] >= prices[v + 1]; ++v);
-            for (p = v; (p + 1) < n && prices[p] <= prices[p + 1]; ++p);
-            if (p == v) break;
+            for (v = pr + 1; (v + 1) < n && prices[v] >= prices[v + 1]; ++v);
+            for (pr = v; (pr + 1) < n && prices[pr] <= prices[pr + 1]; ++pr);
+            if (pr == v) break;
             
             while (!vps.empty() && prices[vps.top().first] >= prices[v]) {
                 auto vp = vps.top();
                 profits.push_back(prices[vp.second] - prices[vp.first]);
                 vps.pop();
             }
-            while (!vps.empty() && prices[vps.top().second] <= prices[p]) {
+            while (!vps.empty() && prices[vps.top().second] <= prices[pr]) {
                 profits.push_back(prices[vps.top().second] - prices[v]);
                 v = vps.top().first; //  (v1, p2)
                 vps.pop();
             }
-            vps.emplace(v, p);
+            vps.emplace(v, pr);
         }
         while (!vps.empty()) {
             auto vp = vps.top(); vps.pop();
