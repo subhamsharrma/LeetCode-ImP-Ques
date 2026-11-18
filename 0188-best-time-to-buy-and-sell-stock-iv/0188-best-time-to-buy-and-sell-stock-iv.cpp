@@ -25,8 +25,8 @@ public:
             if (pr == v) break;
             
             while (!vps.empty() && prices[vps.top().first] >= prices[v]) {
-                auto vp = vps.top();
-                profits.push_back(prices[vp.second] - prices[vp.first]);
+                auto vpg = vps.top();
+                profits.push_back(prices[vpg.second] - prices[vpg.first]);
                 vps.pop();
             }
             while (!vps.empty() && prices[vps.top().second] <= prices[pr]) {
@@ -37,8 +37,8 @@ public:
             vps.emplace(v, pr);
         }
         while (!vps.empty()) {
-            auto vp = vps.top(); vps.pop();
-            profits.push_back(prices[vp.second] - prices[vp.first]);
+            auto vpg = vps.top(); vps.pop();
+            profits.push_back(prices[vpg.second] - prices[vpg.first]);
         }
         if (k >= profits.size()) {
             return accumulate(profits.begin(), profits.end(), 0);
