@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/subhamsharrma/LeetCode-ImP-Ques/tree/master/0645-set-mismatch) |
 ## Sliding Window
