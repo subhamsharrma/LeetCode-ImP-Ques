@@ -1,3 +1,3 @@
-DELETE p FROM Person p
+DELETE pi FROM Person pi
 JOIN Person p2 
-ON p.Email = p2.Email AND p.Id > p2.Id;
+ON pi.Email = p2.Email AND pi.Id > p2.Id;
